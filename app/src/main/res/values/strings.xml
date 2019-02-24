@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dice_roller</string>
+    <string name="button_label_toast">Toast</string>
+    <string name="countvalue">0</string>
+    <string name="buttonlabelcount">count</string>
+    <string name="roll">ROLL</string>
+</resources>
